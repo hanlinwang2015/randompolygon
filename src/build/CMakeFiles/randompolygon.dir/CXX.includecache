@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanlin/randompolygon/src/rpg.hpp
+fstream
+-
+list
+-
+vector
+-
+
+/home/hanlin/randompolygon/src/rpg_py.cpp
+boost/foreach.hpp
+-
+boost/python.hpp
+-
+fstream
+-
+list
+-
+rpg.hpp
+/home/hanlin/randompolygon/src/rpg.hpp
+

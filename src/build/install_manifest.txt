@@ -1,0 +1,4 @@
+/usr/local/lib/python2.7/dist-packages/randompolygon.so
+/usr/local/lib/randompolygon/librandompolygon.so.11.12.15
+/usr/local/lib/randompolygon/librandompolygon.so
+/usr/local/include/randompolygon/rpg.hpp

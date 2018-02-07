@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanlin/randompolygon/src/rpg.cpp
+CGAL/Simple_cartesian.h
+-
+CGAL/Polygon_2.h
+-
+CGAL/point_generators_2.h
+-
+CGAL/random_polygon_2.h
+-
+CGAL/Random.h
+-
+CGAL/algorithm.h
+-
+CGAL/double.h
+-
+fstream
+-
+list
+-
+rpg.hpp
+/home/hanlin/randompolygon/src/rpg.hpp
+version_string.hpp
+/home/hanlin/randompolygon/src/version_string.hpp
+
+/home/hanlin/randompolygon/src/rpg.hpp
+fstream
+-
+list
+-
+vector
+-
+
+version_string.hpp
+

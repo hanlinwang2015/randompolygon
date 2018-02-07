@@ -54,8 +54,8 @@ if __name__ == "__main__":
     # for screenshot writing:
     w2if = vtk.vtkWindowToImageFilter()
     w2if.SetInput(myscreen.renWin)
-    lwr = vtk.vtkPNGWriter()
-    lwr.SetInput( w2if.GetOutput() )
+    #lwr = vtk.vtkPNGWriter()
+    #lwr.SetInput( w2if.GetOutput() )
     
     myscreen.render()
     camPos = 1

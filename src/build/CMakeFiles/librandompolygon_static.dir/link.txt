@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibrandompolygon_static.a  CMakeFiles/librandompolygon_static.dir/rpg.cpp.o
+/usr/bin/ranlib liblibrandompolygon_static.a
